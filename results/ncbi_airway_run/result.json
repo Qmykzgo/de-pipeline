@@ -1,0 +1,19 @@
+{
+  "samples": 8,
+  "genes_pre": 35268,
+  "genes_post": 15202,
+  "formula": "~ batch + condition",
+  "contrast": "condition,treated,control",
+  "backend_used": "welch_log2cpm_svd",
+  "dependencies": [
+    "pandas",
+    "numpy",
+    "matplotlib"
+  ],
+  "n_significant": 131,
+  "n_up": 71,
+  "n_down": 60,
+  "n_enriched_terms": 1738,
+  "output_dir": "/home/yer_kanat/Downloads/lol/depipeline1/results/ncbi_airway_run",
+  "disclaimer": "This pipeline is a research and educational tool \u2014 not for clinical diagnostic use."
+}

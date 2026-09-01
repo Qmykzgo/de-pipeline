@@ -1,0 +1,7 @@
+sample_id,library_size,detected_genes,median_count
+ctrl_1,1131,10,69.0
+ctrl_2,1142,10,69.0
+ctrl_3,1126,10,72.0
+trt_1,1310,10,93.5
+trt_2,1299,10,94.0
+trt_3,1322,10,100.0
